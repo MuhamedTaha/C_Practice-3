@@ -6,7 +6,7 @@
 
 int main()
 {
-    int a[row_size][col_size]={0}; //declaring the array  kokok
+    int a[row_size][col_size]={0}; //declaring the array  
     int avcol[col_size]={0};       //auxiliary array to print the average of columns
     int i=0,j=0;
     int maxrow=0,maxcol=0,avrow=0,avracol=0;
